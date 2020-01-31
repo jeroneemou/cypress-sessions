@@ -93,20 +93,20 @@ Now let's look around at what we can do.
 
 ## Basic test
 
-> [1.test.ts](integration/1.test.ts)
+> integration/1.test.ts
 
 ## Typescript intro
 
-> [2.typescript.ts](integration/2.typescript.ts)
+> integration/2.typescript.ts
 
 ## Assertion
 
 https://docs.cypress.io/guides/references/assertions.html
 
-> [3.assertions.ts](integration/3.assertions.ts)
+> integration/3.assertions.ts
 
 ## Commands
 
 https://docs.cypress.io/api/api/table-of-contents.html
 
-> [4.commands.ts](integration/4.commands.ts)
+> integration/4.commands.ts
