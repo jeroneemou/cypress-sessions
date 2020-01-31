@@ -12,6 +12,9 @@
     "max-classes-per-file": false,
     "no-empty-interface": false,
     "no-console": false,
-    "no-empty": false
+    "no-empty": false,
+    "no-var-keyword": false,
+    "no-any": false,
+    "no-unused-expression": false
   }
 }
