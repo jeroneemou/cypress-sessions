@@ -1,4 +1,7 @@
 describe('Lets assert', () => {
+
+  // expect vs assert
+
   it('equal', () => {
     // note TypeScript definition
     const x: number = 42
