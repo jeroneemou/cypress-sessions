@@ -109,4 +109,11 @@ https://docs.cypress.io/guides/references/assertions.html
 
 https://docs.cypress.io/api/api/table-of-contents.html
 
-> integration/4.commands.ts
+> integration/commands
+
+To look at:
+- https://docs.cypress.io/api/commands/check.html
+- https://docs.cypress.io/api/commands/contains.html
+- https://docs.cypress.io/api/commands/trigger.html
+- https://docs.cypress.io/api/commands/type.html
+- https://docs.cypress.io/api/commands/scrollintoview.html
