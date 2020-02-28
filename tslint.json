@@ -15,6 +15,7 @@
     "no-empty": false,
     "no-var-keyword": false,
     "no-any": false,
-    "no-unused-expression": false
+    "no-unused-expression": false,
+    ""
   }
 }
